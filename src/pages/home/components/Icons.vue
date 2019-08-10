@@ -97,29 +97,31 @@ export default {
     .caidan >>> .swiper-container
         height: 0
         padding-bottom: 50%
-    .img
-        overflow: hidden
-        width: 25%
-        height: 0
-        padding-bottom: 25%
-        float: left
-        position: relative
-        .tubiao
-            position: absolute
-            top: 0rem
-            right: 0rem
-            left: 0rem
-            bottom: .44rem
-            .jingdian
-                height: 100%
-                margin: 0 auto
-                display: block
-        .text
-            position: absolute
-            right: 0rem
-            left: 0rem
-            bottom: 0rem
-            height: .44rem
-            line-height: .44rem
-            text-align: center
+    .caidan
+        margin-top: .1rem
+        .img
+            overflow: hidden
+            width: 25%
+            height: 0
+            padding-bottom: 25%
+            float: left
+            position: relative
+            .tubiao
+                position: absolute
+                top: 0rem
+                right: 0rem
+                left: 0rem
+                bottom: .44rem
+                .jingdian
+                    height: 100%
+                    margin: 0 auto
+                    display: block
+            .text
+                position: absolute
+                right: 0rem
+                left: 0rem
+                bottom: 0rem
+                height: .44rem
+                line-height: .44rem
+                text-align: center
 </style>
