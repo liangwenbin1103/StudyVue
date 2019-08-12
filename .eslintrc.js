@@ -32,6 +32,7 @@ module.exports = {
     'no-var': 'off',
     'no-eval': 'off',
     'no-new-func': 'off',
-    'no-template-curly-in-string': "off"
+    'no-template-curly-in-string': "off",
+    'no-console': 'off'
   }
 }
