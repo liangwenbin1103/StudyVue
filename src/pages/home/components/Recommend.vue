@@ -2,7 +2,12 @@
     <div>
         <div class="title">热门推荐</div>
         <ul>
-            <li class="item border-bottom" v-for="item of list" :key="item.id">
+            <router-link
+            tag="li"
+            class="item border-bottom"
+            v-for="item of list"
+            :key="item.id"
+            :to="'/detail/' + item.id">
                 <img class="img" :src="item.img" />
                 <div class="item-info">
                     <p class="item-title" v-text="item.title"></p>
@@ -13,7 +18,7 @@
                         <span class="diqu" v-text="item.diqu"></span>
                     </p>
                 </div>
-            </li>
+            </router-link>
         </ul>
         <button class="gengduo">查看所有景点</button>
     </div>

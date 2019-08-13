@@ -21,6 +21,8 @@ export default {
                 pagination: '.swiper-pagination',
                 loop: true,
                 autoplay: true,
+                // 用户操作swiper之后，是否禁止autoplay
+                autoplayDisableOnInteraction: false,
                 speed: 3000
             }
         }

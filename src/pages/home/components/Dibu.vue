@@ -79,6 +79,7 @@ export default {
             width: 100%
             height: 39px
             border-bottom: 1px solid #cacaca
+            margin-left: .3rem
             .dl
                 position: relative
                 color: #25a4bb
