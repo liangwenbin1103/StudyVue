@@ -1,0 +1,161 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [
+            {
+                "id": "01",
+                "Url": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/9e2844a063da32c591708053870e7eac.jpg_750x200_39fb08c6.jpg"
+            },
+            {
+                "id": "02",
+                "Url": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/5cf51617d7efdc4f7537b2c3ac77b2c5.jpg_750x200_58db926b.jpg"
+            },
+            {
+                "id": "03",
+                "Url": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/36358222d41ad18b66efe3dea09df24b.jpg_750x200_0005bed8.jpg"
+            },
+            {
+                "id": "04",
+                "Url": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/af0433923612be13281fda633920232e.jpg_750x200_6eb5a9f0.jpg"
+            },
+            {
+                "id": "05",
+                "Url": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/5e02c14d35097f40d656f455837b63eb.jpg_750x200_adebb937.jpg"
+            }
+        ],
+        "imgList": [
+            {
+                "id": "001",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                "title": "景区门票"
+            },
+            {
+                "id": "002",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+                "title": "深圳必游"
+            },
+            {
+                "id": "003",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1803/4d/a1eda1a2b8414302.png",
+                "title": "暑期夜场"
+            },
+            {
+                "id": "004",
+                "url":" https://imgs.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+                "title": "海洋馆"
+            },
+            {
+                "id": "005",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                "title": "一日游"
+            },
+            {
+                "id": "006",
+                "url": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/cba147cf6cfcea7109d0bff6aac6f626.png",
+                "title": "深圳动物园"
+            },
+            {
+                "id": "007",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1803/a6/6d97515091789602.png",
+                "title": "世界之窗"
+            },
+            {
+                "id": "008",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+                "title": "东部华侨城"
+            },
+            {
+                "id": "009",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+                "title": "玛雅水乐园"
+            },
+            {
+                "id": "010",
+                "url": "https://imgs.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+                "title": "玩转长隆"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "001",
+                "img": "https://imgs.qunarzz.com/sight/p0/1907/8d/8da769b8a045ec98a3.img.jpg_200x200_f74bf17b.jpg",
+                "title": "深圳欢乐谷",
+                "desc": "★★★★★   31572条评论",
+                "jiaqian": "￥69.9",
+                "diqu": "南山区"
+            },
+            {
+                "id": "002",
+                "img": "https://imgs.qunarzz.com/sight/p0/1507/64/34362835b4a219af8b36803d31a6380f.water.jpg_200x200_bc5c0452.jpg",
+                "title": "深圳小梅沙海洋世界",
+                "desc": "★★★★★   9158条评论",
+                "jiaqian": "￥150",
+                "diqu": "小梅沙"
+            },
+            {
+                "id": "003",
+                "img": "https://imgs.qunarzz.com/sight/p0/1905/e6/e683c8cf5e97ce03a3.img.jpg_200x200_4769276c.jpg",
+                "title": "世界之窗",
+                "desc": "★★★★★   45285条评论",
+                "jiaqian": "￥85",
+                "diqu": "华侨城"
+            },
+            {
+                "id": "004",
+                "img": "https://imgs.qunarzz.com/sight/p0/1907/7a/7a027c49bb8f730aa3.water.jpg_200x200_0051bdbf.jpg",
+                "title": "东部华侨城大峡谷",
+                "desc": "★★★★★   8619条评论",
+                "jiaqian": "￥180",
+                "diqu": "东部华侨城"
+            },
+            {
+                "id": "005",
+                "img": "https://imgs.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_200x200_1c15c8f5.jpg",
+                "title": "深圳野生动物园",
+                "desc": "★★★★★   20110条评论",
+                "jiaqian": "￥57.3",
+                "diqu": "南山区"
+            },
+            {
+                "id": "006",
+                "img": "https://imgs.qunarzz.com/sight/p0/201307/18/f25ac054eec3804dc8d65eac.jpg_200x200_a008b6ca.jpg",
+                "title": "海洋奇梦馆",
+                "desc": "★★★★★   4110条评论",
+                "jiaqian": "￥60",
+                "diqu": "欢乐海岸"
+            }
+        ],
+        "weekendList": [
+            {
+                "id": "001",
+                "img": "https://imgs.qunarzz.com/sight/source/1507/d9/2ddc7652fdba16.jpg_r_640x214_5e62f1a3.jpg",
+                "title": "深圳周边游",
+                "desc": "远离城市拥堵，去周边开启清新假期吧。"
+            },
+            {
+                "id": "002",
+                "img": "https://imgs.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+                "title": "清远周边逛",
+                "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+            },
+            {
+                "id": "003",
+                "img": "https://imgs.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+                "title": "浮在海上的绿洲",
+                "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+            },
+            {
+                "id": "004",
+                "img": "https://imgs.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+                "title": "深圳必打卡",
+                "desc": "来到深圳，你需要来这里签到"
+            },
+            {
+                "id": "005",
+                "img": "https://imgs.qunarzz.com/sight/source/1602/88/bf120edeaea383.jpg_r_640x214_f8591f7b.jpg",
+                "title": "欢乐长隆",
+                "desc": "世界欢乐汇聚长隆，这里拥有多个大型游乐设备和精彩的演出，和小伙伴们一起感受刺激的体验"
+            }
+        ]
+    }
+}
